@@ -10,8 +10,6 @@ Thank you for being interested in my GitHub Repo
 #### CS403MikaelHintonOPMS
 ##### Description
 eowhbedfilsbdlfgsdgljksahdflkjsfkldfah
-
-##### Link
-https://github.com/Hnton/CS403MikaelHintonOPMS
+##### [Link](https://github.com/Hnton/CS403MikaelHintonOPMS)
 
 
